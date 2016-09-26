@@ -2,13 +2,13 @@
 
 Pod::Spec.new do |s|
   s.name         = "Lwt_ProgressView"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "Round the progress of the view"
   s.homepage     = "https://github.com/lwt211/Lwt_ProgressView"
   s.license      = "MIT"
   s.author             = { "Li Wentao" => "https://github.com/lwt211/Lwt_ProgressView" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/lwt211/Lwt_ProgressView.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/lwt211/Lwt_ProgressView.git", :tag => "1.0.2" }
   s.source_files  = "Lwt_ProgressView/**/*.{h,m}"
   # s.resources = "Lwt_ProgressView/**/*.png", "Lwt_ProgressView/**/*.xib"
   s.requires_arc = true
